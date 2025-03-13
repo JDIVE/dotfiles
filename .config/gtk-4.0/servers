@@ -3,12 +3,32 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="sftp://admin@10.1.20.15/" added="2025-02-19T19:44:36.845801Z" modified="2025-02-19T19:44:36.845804Z" visited="2025-02-19T19:44:36.845802Z">
+  <bookmark href="sftp://jamie@10.1.20.15/mnt/dozer/ai" added="2025-02-27T20:47:38.943541Z" modified="2025-02-27T20:47:38.943545Z" visited="2025-02-27T20:47:38.943542Z">
+    <title>ai</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-02-27T20:47:38.943543Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="sftp://jamie@10.1.20.15/" added="2025-02-27T20:51:15.640283Z" modified="2025-02-27T20:51:15.640287Z" visited="2025-02-27T20:51:15.640285Z">
     <title>/ on 10.1.20.15</title>
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-02-19T19:44:36.845803Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-02-27T20:51:15.640286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="sftp://admin@10.1.20.15/" added="2025-02-27T21:27:32.289979Z" modified="2025-02-27T21:29:52.116120Z" visited="2025-02-27T21:29:52.116118Z">
+    <title>/ on 10.1.20.15</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2025-02-27T21:29:52.116119Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
