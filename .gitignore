@@ -9,3 +9,5 @@
 .config/spotify
 .config/Msty
 .config/fabric/.env
+.config/nvim.bak
+.config/ml4w/cache
