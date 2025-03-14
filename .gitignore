@@ -11,5 +11,5 @@
 .config/fabric/.env
 .config/nvim.bak
 .config/ml4w/cache
-.config/btop
 .Xresources
+.gtkrc-2.0
