@@ -13,3 +13,4 @@
 .config/ml4w/cache
 .Xresources
 .gtkrc-2.0
+.config/nvim/lua/plugins/.env
