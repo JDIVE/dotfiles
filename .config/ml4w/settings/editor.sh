@@ -1,1 +1,1 @@
-zeditor
+nvim
